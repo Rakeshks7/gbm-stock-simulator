@@ -18,3 +18,5 @@ This project applies the **Geometric Brownian Motion (GBM)** model—the mathema
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/YOUR_USERNAME/gbm-stock-simulator.git](https://github.com/YOUR_USERNAME/gbm-stock-simulator.git)
+
+## Disclaimer: This tool is for educational purposes only to demonstrate the mathematics of volatility. It does not constitute investment advice or a recommendation to buy/sell any securities.
